@@ -5,7 +5,7 @@ Archive of Kuro's Japanese supported Pebble Font.
 
 These can still be used with Pebble watches running Rebble software as of 2024 (See https://rebble.io/). Long live Pebble!
 
-**Acknowledgement:** Big thanks to Kuro for these resources! It has helped made many people happy
+**Acknowledgement:** Big thanks to Kuro for these resources! It has helped make many people happy.
 
 **Archive Source:** https://archive.is/0m5x1
 
