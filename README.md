@@ -11,6 +11,15 @@ These can still be used with Pebble watches running Rebble software as of 2024 (
 
 **Creator:** kuro.ro
 
+## Installation (Android only)
+
+1. Download the desired `.pbl` file to your phone
+2. Install "Sideload Helper by Rebble" via F-Droid or manually install the APK from the [Rebble Sideload Helper GitHub page](https://github.com/pebble-dev/rebble-sideloader/releases/tag/v1.4)
+3. Open the `.pbl` file from your file manager and select "Sideload with Rebble"
+4. Follow the instructions in the app to install the font to your Pebble watch
+
+## Versions
+
 Ver.5:
 - [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://www.dropbox.com/s/mk1e21f917fxn56/pblp_zhs_zht_ja_v5_light.pbl?dl=0)
 - [pblp_zhs_zht_ja_v5_regular_font_weight.pbl](https://www.dropbox.com/s/szcuu1h25hk4rre/pblp_zhs_zht_ja_v5_regular.pbl?dl=0)
