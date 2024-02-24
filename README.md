@@ -1,11 +1,15 @@
 # pebble-font-japanese-archive
 Archive of Kuro's Japanese supported Pebble Font.
 
+![Screenshot of the Japanese pebble font example in three font weights](./japanese-pebble-font.png)
+
 These can still be used with Pebble watches running Rebble software as of 2024 (See https://rebble.io/). Long live Pebble!
 
-Acknowledgement: Big thanks to Kuro for these resources! It has helped made many people happy.
-Archive Source: https://archive.is/0m5x1
-Creator: kuro.ro
+**Acknowledgement:** Big thanks to Kuro for these resources! It has helped made many people happy
+
+**Archive Source:** https://archive.is/0m5x1
+
+**Creator:** kuro.ro
 
 Ver.5:
 - [pblp_zhs_zht_ja_v5_light_font_weight.pbl](https://www.dropbox.com/s/mk1e21f917fxn56/pblp_zhs_zht_ja_v5_light.pbl?dl=0)
